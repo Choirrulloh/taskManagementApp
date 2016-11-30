@@ -3,7 +3,7 @@
 
 ##Features
 - Boards, Teams, List, Cards, Activities, Facebook Login
-A Board is a project to be emberked upon
+A Board is a project to be embarked upon
 A List is a collection of related tasks in a project
 A card is the smallest unit of work in a project
 
@@ -24,5 +24,10 @@ A card is the smallest unit of work in a project
  - [Animate.css](http://daneden.github.io/animate.css/)
  - [Uploadify](http://www.uploadify.com/)
 
+#requirements
 
+php >=5.6.25
+apache 2.4.23
+mysql <=5.7
 
+mod_rewrite must be enabled in your php.ini config

@@ -1,31 +1,13 @@
-# Charisma
+# Project Management App
 
-### Free, premium quality, responsive, multiple skin admin template.
-
-##[Live Demo](http://usman.it/themes/charisma/)
-### [Download](https://github.com/usmanhalalit/charisma/archive/master.zip)
 
 ##Features
-
-- 9 different themes.
-- Fully responsive, optimized UI for tablets and mobile phones, [see how it looks on different devices](http://www.responsinator.com/?url=usman.it%2Fthemes%2Fcharisma).
-- Based on Bootstrap.
-- Works on IE9+
-- Commented code.
-- Custom product tour, [see example](http://usman.it/themes/charisma/tour.html).
-- Grid system, [see example](http://usman.it/themes/charisma/grid.html).
-- Charts, including, pie, stack, flot, realtime etc.
-- Data tables
-- Widget boxes, collapsible, closable, [see example](http://usman.it/themes/charisma/grid.html).
-- Photo gallery [see example](http://usman.it/themes/charisma/gallery.html).
-- Ajaxified menus
-- Full calendar, monthly weekly, daily, with todo list.
-- Custom error page
-- Auto active link detection and much more.
-
+- Boards, Teams, List, Cards, Activities, Facebook Login
+A Board is a project to be emberked upon
+A List is a collection of related tasks in a project
+A card is the smallest unit of work in a project
 
 ## Credits
-Without these open source software Charisma woudn't have been possible:
 
  - [Twitter Bootstrap](http://getbootstrap.com/)
  - [jQuery](http://jquery.com)
@@ -43,11 +25,4 @@ Without these open source software Charisma woudn't have been possible:
  - [Uploadify](http://www.uploadify.com/)
 
 
-Please visit [http://usman.it/free-responsive-admin-template/](http://usman.it/free-responsive-admin-template/ "") for more information.
 
-
-
-### [Donate Charisma](http://flattr.com/thing/1507720/usmanhalalitcharisma-on-GitHub)
-
-___
-&copy; 2012 - 2015 [Muhammad Usman](http://usman.it/). Licensed under the Apache License, Version 2.0.
